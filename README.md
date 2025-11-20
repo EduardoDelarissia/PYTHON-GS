@@ -1,12 +1,14 @@
+FIAP —  Computational Thinking With Python 
+Aluno: Eduardo Antonio Delarissia — RM 563468
+Link do video :https://youtube.com/watch?v=I57zzv8Skfs
+
 Futuro do Trabalho — Console App (Python)
 
 Aplicativo de linha de comando que apoia requalificação (reskilling/upskilling) e aprendizagem contínua.
 Permite cadastrar pessoas, mapear habilidades, planejar estudos, registrar sessões e gerar relatórios por habilidade.
 Persistência exclusiva em JSON e consumo de APIs públicas (dica motivacional e manchetes de tecnologia) com fallback offline.
 
-FIAP — Differented Problem Solving
-Aluno: Eduardo Antonio Delarissia — RM 563468
-Link do video :https://youtube.com/watch?v=I57zzv8Skfs
+
 
 🧭 Sumário
 
